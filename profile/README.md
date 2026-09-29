@@ -6,7 +6,7 @@
 
 **ERP · CRM · SaaS · Infraestructura en la nube**
 
-<img src="https://api.iconify.design/hugeicons/location-01.svg?color=%236e7781" width="16" height="16" align="center" alt="" /> Torreón, Coahuila, México
+<img src="https://api.iconify.design/hugeicons/location-01.svg?color=%236e7781" width="10" height="10" align="center" alt="" /> Torreón, Coahuila, México
 
 </div>
 
@@ -32,26 +32,6 @@
 | <img src="https://api.iconify.design/hugeicons/cloud-server.svg?color=%236e7781" width="20" height="20" align="center" alt="" /> | **Infraestructura y DevOps** | Despliegues sin downtime, hosting gestionado, DNS y almacenamiento en la nube. |
 | <img src="https://api.iconify.design/hugeicons/shield-01.svg?color=%236e7781" width="20" height="20" align="center" alt="" /> | **Auditoría y rescate** | Estabilizamos y llevamos a producción apps prototipadas con IA. |
 
-## <img src="https://api.iconify.design/hugeicons/source-code.svg?color=%236e7781" width="24" height="24" align="center" alt="" /> Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-</p>
-
-## <img src="https://api.iconify.design/hugeicons/package.svg?color=%236e7781" width="24" height="24" align="center" alt="" /> Productos
-
-- <img src="https://api.iconify.design/hugeicons/task-01.svg?color=%236e7781" width="18" height="18" align="center" alt="" /> **BILFO Workspace (AXIS)** — gestión de proyectos y tareas multi-tenant con portal de clientes.
-- <img src="https://api.iconify.design/hugeicons/cloud-upload.svg?color=%236e7781" width="18" height="18" align="center" alt="" /> **BILFO Cloud Storage** — almacenamiento gestionado en la nube.
-
-## <img src="https://api.iconify.design/hugeicons/agreement-01.svg?color=%236e7781" width="24" height="24" align="center" alt="" /> Han confiado en nosotros
-
-DelToro Agrovet · Inmobiliaria TRC · LAPCO
 
 ## <img src="https://api.iconify.design/hugeicons/mail-01.svg?color=%236e7781" width="24" height="24" align="center" alt="" /> Contacto
 
